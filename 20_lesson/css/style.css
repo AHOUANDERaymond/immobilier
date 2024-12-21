@@ -1,0 +1,14 @@
+/* !! VARIABLES
+ */:root{
+    ..BGCOLOR: #475569;
+
+}
+/* !! GENERAL STYLES */
+
+body{
+    font: 1.5rem "Nunito", sans-serif;
+    min-height: 100vh;
+
+    background-color: black;
+    background-image: radial;
+}
